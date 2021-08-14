@@ -121,7 +121,6 @@ app.get("/secrets", function(req, res) {
   User.find({"secret":{$ne:null}}, function(err, found) {
     if (!err) {
       if (found) {
-        console.log(found);
         res.render("secrets", {usersWithSecrets: found});
       }
     } else {
