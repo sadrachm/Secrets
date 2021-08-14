@@ -2,3 +2,4 @@
 2nd Level - Database Encryption using mongoose-encryption & .env
 3rd Level - Hashing & MD5
 4th Level - Salting & bcrypt
+5th Level - Passports, Cookies, & Sessions
