@@ -1,2 +1,4 @@
 1st Level - Storing Pass and Email in database w/o any encryption
-2nd Level - Database Encryption using mongoose-encryption & dotenv
+2nd Level - Database Encryption using mongoose-encryption & .env
+3rd Level - Hashing & MD5
+4th Level - Salting & bcrypt
